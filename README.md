@@ -89,7 +89,7 @@ urlpatterns = [
 ]
 ```
 ## BMI SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-09-29 130741.png>)
+![alt text](<bmi_terminal.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2025-09-29 130741.png>)
